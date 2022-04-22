@@ -1,1 +1,1 @@
-# peca
+# PECA Project
